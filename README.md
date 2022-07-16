@@ -17,12 +17,11 @@
 
 ## Version
 
-### Example: 9.1dev
+### Example: 9.1
 
 * **9.1dev**
-    * バージョン
-    * **9**: メジャー
-    * **1**: マイナー
-    * **dev**: ブランチ/mainのときはなし
-
+    * version
+    * **9**: major
+    * **1**: miner
+  
 ## ToDo
