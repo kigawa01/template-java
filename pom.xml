@@ -6,6 +6,7 @@
     <properties>
         <java.version></java.version>
         <name></name>
+        <groupe></groupe>
         <description></description>
         <url></url>
         <version></version>
@@ -15,7 +16,7 @@
     <description>${description}</description>
     <url>${url}</url>
 
-    <groupId>net.kigawa</groupId>
+    <groupId>${groupe}</groupId>
     <artifactId>${name}</artifactId>
     <version>${version</version>
 
