@@ -4,12 +4,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <properties>
-        <java.version></java.version>
-        <name></name>
-        <groupe></groupe>
+        <java.version>17</java.version>
+        <mainClass></mainClass>
+        <artifactId></artifactId>
+        <groupId></groupId>
         <description></description>
         <url></url>
         <version></version>
+
+
+        <maven.compiler.source>${java.version}</maven.compiler.source>
+        <maven.compiler.target>${java.version}</maven.compiler.target>
     </properties>
 
     <name>${name}</name>
