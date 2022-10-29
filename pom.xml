@@ -16,7 +16,7 @@
 
     <groupId></groupId>
     <artifactId></artifactId>
-    <version></version>
+    <version>1.0</version>
     <name>${project.artifactId}</name>
     <description>add unit</description>
     <url>https://github.com/kigawa01/kutil-unit</url>
