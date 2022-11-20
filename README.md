@@ -19,8 +19,7 @@
 
 ### Example: 9.1
 
-* **9.1**
-    * **9**: major
-    * **1**: miner
-  
+* **9**: major
+* **1**: miner
+
 ## ToDo
