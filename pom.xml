@@ -191,6 +191,13 @@
         </plugins>
     </build>
 
+    <repositories>
+        <repository>
+            <id>spigotmc-repo</id>
+            <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
+        </repository>
+    </repositories>
+
     <dependencies>
         <!-- テストコードの記述に必要なライブラリを導入 -->
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
@@ -204,6 +211,11 @@
             <groupId>org.jetbrains.kotlin</groupId>
             <artifactId>kotlin-stdlib</artifactId>
             <version>${kotlin.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.spigotmc</groupId>
+            <artifactId>spigot-api</artifactId>
+            <version>1.18.2-R0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
