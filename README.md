@@ -17,9 +17,10 @@
 
 ## Version
 
-### Example: 9.1
+### Example: 9.1.2
 
-* **9**: major
-* **1**: miner
+* **9**: major, destructive
+* **1**: miner, new function
+* **2**: miner, bug fix
 
 ## ToDo
